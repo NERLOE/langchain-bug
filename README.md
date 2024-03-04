@@ -1,10 +1,8 @@
-# Node.js template
+The following project generated this output:
+`HelloHelloHello!!! I I I'm'm'm here here here and and and ready ready ready to to to help help help... How How How can can can I I I assist assist assist you you you today today today???`
 
-This is a Node.js project.
+You can test the project by running the following command:
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+```bash
+OPENAI_API_KEY="xyzxyzxyzxyzxyzxyz" npx tsx index.ts
+```
