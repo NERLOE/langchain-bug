@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@langchain/core": "0.1.39",
+    "@langchain/langgraph": "0.0.10",
+    "@langchain/openai": "0.0.15",
+    "tsx": "4.7.1",
+    "zod": "3.22.4"
+  }
+}
