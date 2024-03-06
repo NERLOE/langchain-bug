@@ -17,11 +17,11 @@
     "url": "https://github.com/codesandbox-app/static-template/issues"
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
-  "devDependencies": {},
   "dependencies": {
-    "@langchain/core": "0.1.39",
+    "@langchain/core": "0.1.42",
     "@langchain/langgraph": "0.0.10",
-    "@langchain/openai": "0.0.15",
+    "@langchain/openai": "0.0.16",
+    "dotenv": "^16.4.5",
     "tsx": "4.7.1",
     "zod": "3.22.4"
   }

@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { BaseMessage } from "@langchain/core/messages";
 import { RunnableConfig } from "@langchain/core/runnables";
 import { DynamicStructuredTool } from "@langchain/core/tools";
