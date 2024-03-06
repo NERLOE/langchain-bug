@@ -1,7 +1,7 @@
 You can test the project by running the following command:
 
 ```bash
-OPENAI_API_KEY="xyzxyzxyzxyzxyzxyz" npx tsx index.ts
+npx tsx index.ts
 ```
 
 The command executed in this project generated this output on my end:
